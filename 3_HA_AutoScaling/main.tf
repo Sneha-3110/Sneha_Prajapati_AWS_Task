@@ -1,6 +1,6 @@
 # Define AWS Provider and Region
 provider "aws" {
-  region = "us-east-1"
+  region = "eu-north-1"
 }
 
 # --- Data Sources (Referencing Task 1 Resources) ---
